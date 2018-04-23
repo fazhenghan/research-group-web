@@ -2,102 +2,143 @@
 Todd:
     display_name: "Todd Lowary"
     role: pi
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
+    image: /img/people/todd.jpg
+    bio: Principle Investigator
+    webpage: "/bio/tlowary.html"
+Leo:
+    display_name: "Xingyong (Leo) Liang"
+    role: vscholar 
+    image: /img/people/leol.jpg
+    bio: 
+    webpage: "/bio/leo.html"
 Blake:
     display_name: "Blake Zheng"
     role: staff
     image: /img/people/blake.JPG
     bio: 
+    webpage: "/bio/blake.html"
 
-wolverine:
-    display_name: "Wolverine"
-
-    github: wolverine
+Tzuting:
+    display_name: "Tzuting Kao"
+    image: /img/people/Tzuting.jpg
+    webpage: "/bio/tzuting"
     role: postdoc
-
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+Rashimi:
+    display_name: "Rashmi Roy"
+    image: 
+    webpage: "/bio/tlowary.html"  
+    role: postdoc
+Junfeng:
+    display_name: "Junfeng Zhang"
+    image: /img/people/junfeng2.jpg
+    webpage: "/bio/junfeng.html"
+    role: postdoc
+Maju:
+    display_name: "Maju Joe"
+    webpage: "/bio/maju.html"
     role: ra
-    image: /img/people/storm.png
+    image: /img/people/Maju-Joe.png
+    bio: 
 
 Fazheng:
     display_name: "Fazheng Han"
     role: grad
-    bio: sdfsdfsdfsdfsfdsf
+    bio: 
+    image:
+    webpage: "/bio/fazheng.html"
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
+vstudent1:
+    display_name: "vstudent1"
     role: vstudent
+    bio: 
+    image:
+    webpage: ""
 
-grad-c:
-    display_name: "Grad C"
-    role: ugrad
-
-grad-d:
-    display_name: "Grad D"
+Anthony:
+    display_name: "Chun-Jui (Anthony) Chu"
     role: grad
-
-grad-e:
-    display_name: "Grad E"
+    bio: 
+    image: /img/people/Anthony.jpg
+    webpage: "/bio/anthony.html"
+Boshun:
+    display_name: "Boshun Huang"
     role: grad
-
-grad-f:
-    display_name: "Grad F"
+    bio: 
+    image: /img/people/Boshun.JPG
+    webpage: "/bio/boshun.html"
+Mikel:
+    display_name: "Mikel Jason Allas"
     role: grad
+    bio: 
+    image: /img/people/mikel.jpg
+    webpage: "/bio/mikel.html"
 
-grad-g:
-    display_name: "Grad G"
+Posen:
+    display_name: "Po-Sen Tseng"
     role: grad
+    bio: 
+    image: /img/people/posen.jpg
+    webpage: "/bio/posen.html"
 
-grad-h:
-    display_name: "Grad H"
+Richard:
+    display_name: "Richard Brunton"
     role: grad
+    bio: 
+    image: /img/people/Richard.jpg
+    webpage: "/bio/richard.html"
 
-grad-i:
-    display_name: "Grad I"
+RyanS:
+    display_name: "Ryan Sweeney"
     role: grad
+    bio: 
+    image: /img/people/ryansweeney.jpg
+    webpage: "/bio/ryans.html"
 
-alum-a:
-    display_name: "Alum A"
+Sicheng:
+    display_name: "Sicheng Lin"
+    role: grad
+    bio: 
+    image: /img/people/Sicheng.JPG
+    webpage: "/bio/sicheng.html"
+
+Simha:
+    display_name: "Narasimha Thota"
+    role: grad
+    bio: 
+    image: /img/people/Simha.jpg
+    webpage: "/bio/simha.html"
+VitorC:
+    display_name: "Vitor Cunha"
+    role: grad
+    bio: 
+    image: /img/people/vitor fix.jpg
+    webpage: "/bio/vitor.html"
+WinstonL:
+    display_name: "	Ying Jie (Winston) Lim"
+    role: grad
+    bio: 
+    image: /img/people/YingJie(Winston)Lim.jpg
+    webpage: "/bio/winston.html"    
+LiZ:
+    display_name: "Li Zhang"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    bio: "M.Sc., 2016. Now at Gilead."
+    image:
+    webpage:
 
-alum-b:
-    display_name: "Alum B With Way Longer Name"
+LeiW:
+    display_name: "Lei Wang"
     role: alum
+    bio: "Ph.D., 2017. Now at CalTech, Hsieh-Wilson group as PDF."
+    image: /img/people/Lei.JPG
+    webpage:
 
 alum-c:
     display_name: "Alum C"
     role: alum
     webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
+    bio: 
+    image:
 collab-a:
     display_name: "Collaborator A"
     role: collab
@@ -118,28 +159,29 @@ collab-e:
     display_name: "Collaborator E"
     role: collab
 
-ugrad-a:
-    display_name: "Ugrad A"
+MikeB:
+    display_name: "Michael Bell"
     role: ugrad
+    bio: 
+    image: /img/people/MikeBell-Lab.jpg
+    webpage: "/bio/mike.html"
 
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
+JeremyN:
+    display_name: "Jeremy Nothof"
     role: ugrad
+    bio: 
+    image: /img/people/jeremy fix.jpg
+    webpage: "/bio/jeremy.html"
 
-ugrad-c:
-    display_name: "Ugrad C"
+RebeccaK:
+    display_name: "Rebecca Kim"
     role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
+    bio: 
+    image: /img/people/rebecca.jpg
+    webpage:
+    
+YuX-past-ugrad:
+    display_name: "Yu Xin"
     role: ugrad-alum
 
 ugrad-alum-b:
